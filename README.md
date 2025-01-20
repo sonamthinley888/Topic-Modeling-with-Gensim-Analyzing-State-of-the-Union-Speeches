@@ -5,9 +5,9 @@ This project explores historical State of the Union speeches to uncover evolving
 ---
 
 Topic Modeling with Gensim: Analyzing State of the Union Speeches
-Sonam Thinley
+###Sonam Thinley
 ******************\_\_\_\_******************
-Abstract
+##Abstract
 This report provides an in-depth analysis of the State of the Union speeches corpus using topic modelling techniques. The goal of this project is to extract meaningful insights from a dataset containing historical speeches delivered over the past century. Using Python programming, the data is pre-processed and TF-IDF document vectors are generated. Topic modelling is then performed using both Latent Semantic Indexing (LSI) and Latent Dirichlet Allocation (LDA) methods. Additionally, a method for summarizing changes in speech topics over decades is presented, allowing for a deeper understanding of the evolving themes and their connections to major historical events. The project's key components include data preprocessing, dictionary creation, bag-of-words corpus generation, LSI and LDA topic modelling, and annotation of resulting topics. The project aims to uncover hidden themes and provide valuable insights into the evolving priorities and concerns of the United States government as reflected in these annual presidential speeches.
 
 1 Pre-processing the data and Generating tf-idf weighted document vectors
